@@ -1,0 +1,16 @@
+body{
+    background:url('image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{color: rgb(252, 54, 120);
+ text-align:center;
+font-size:400%;
+font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border-radius: 27px;
+    border-style: groove;
+    width: 150px;
+    height:200px;
+}
